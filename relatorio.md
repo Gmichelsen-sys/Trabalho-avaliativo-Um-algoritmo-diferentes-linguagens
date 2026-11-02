@@ -30,7 +30,7 @@ Os dois laços percorrem a mesma coleção, então em algum momento o índice do
 
 ## 2. Leitura e relação com o livro
 
-**Referência:** BHARGAVA, Aditya. *Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos*. Capítulo 2. Edição: **[PREENCHER]**. Seções: **[PREENCHER]**. Páginas: **[PREENCHER]**.
+**Referência:** BHARGAVA, Aditya. *Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos*. Capítulo 2.
 
 **1. Como os elementos de um array são organizados e acessados?**
 Ficam em posições de memória vizinhas (contíguas), uma após a outra. Como cada elemento tem um índice e o computador sabe onde o array começa, ele calcula o endereço do elemento `i` diretamente, sem percorrer os anteriores. Por isso o acesso por índice é rápido.
