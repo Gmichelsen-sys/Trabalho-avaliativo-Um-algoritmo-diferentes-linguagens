@@ -30,7 +30,7 @@ Os dois laços percorrem a mesma coleção, então em algum momento o índice do
 
 ## 2. Leitura e relação com o livro
 
-**Referência:** BHARGAVA, Aditya. *Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos*. Capítulo 2. Edição: **[PREENCHER]**. Seções: **[PREENCHER]**. Páginas: **[PREENCHER]**.
+**Referência:** BHARGAVA, Aditya. *Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos*.
 
 **1. Como os elementos de um array são organizados e acessados?**
 Ficam em posições de memória vizinhas (contíguas), uma após a outra. Como cada elemento tem um índice e o computador sabe onde o array começa, ele calcula o endereço do elemento `i` diretamente, sem percorrer os anteriores. Por isso o acesso por índice é rápido.
@@ -57,8 +57,9 @@ Não.
 ---
 **Dificuldades de instalação das linguagens**
 
-Durante a instalação e configuração do C# e do Rust no Zorin OS, encontrei algumas dificuldades. O Microsoft Defender bloqueava alguns pacotes durante a instalação, impedindo a conclusão do processo. Além disso, ao tentar fazer login com minha conta Microsoft no VS Code, o sistema operacional travou e apresentou erros.
+Durante a instalação e configuração do C# e do Rust no Zorin OS, encontrei algumas dificuldades Além disso, ao tentar fazer login com minha conta Microsoft no VS Code, o sistema operacional travou e apresentou erros.
 
+No Windows, o Defender bloqueava alguns pacotes durante a instalação, impedindo a conclusão do processo. 
 Também tive problemas para executar projetos C# armazenados na partição do Windows, pois o sistema não permitia gravar os arquivos necessários para a compilação. Consegui instalar o .NET e executar um teste pelo terminal, mas não consegui concluir a configuração completa das ferramentas. Não consegui executar o "hello Word".
 
-Por esses motivos, optei por desenvolver o trabalho em Java, conseguindo concluir a atividade. Também não consegui combinar com algum colega para fazer junto. Utilizei o claude para auxiliar na execução dos loops e optei por seguir sozinho com a atividade e entregar o que está dentro do meu entendimento. 
+Por esses motivos, optei por desenvolver o trabalho em Java. Também não consegui combinar com algum colega para realizar a atividade em dupla, então decidi seguir sozinho. Utilizei o Claude como auxílio para entender e implementar os laços de repetição e optei por desenvolver a atividade dentro do meu nível de conhecimento, buscando compreender o que estava fazendo e entregar o que consegui realizar.
